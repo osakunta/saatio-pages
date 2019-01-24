@@ -8,3 +8,7 @@ menu:
     - identifier: satakuntatalo
       name: Satakuntatalo
       url: /satakuntatalo/
+
+    - identifier: yhteystiedot
+      name: Yhteystiedot
+      url: /yhteystiedot/
