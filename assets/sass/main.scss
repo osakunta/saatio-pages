@@ -6,11 +6,13 @@
 
 h1 {
   font-weight: 900 !important;
+  font-size: 2.5rem !important;
 }
 
 p {
   text-align: justify;
   hyphens: manual;
+  max-width: 640px;
 }
 
 .footer {
@@ -19,11 +21,4 @@ p {
 }
 
 .restrict-width {
-  max-width: 640px;
-}
-
-@media only screen and (max-width: 600px) {
-  h1.title.is-1 {
-    font-size: 2.5rem !important;
-  }
 }
