@@ -14,14 +14,6 @@
 
     <div id="main-menu" class="navbar-menu">
         <div class="navbar-end">
-            <a class="navbar-item">
-                Home
-            </a>
-
-            <a class="navbar-item">
-                Documentation
-            </a>
-
             {{- range .Site.Menus.main -}}
             <a href="{{ .URL | relLangURL }}" class="navbar-item">{{- .Name -}}</a>
             {{ end }}
