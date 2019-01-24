@@ -1,0 +1,10 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Satalinnan Säätiö"
+sectionPagesMenu: "main"
+
+menu:
+  main:
+    - identifier: satakuntatalo
+      name: Satakuntatalo
+      url: /satakuntatalo/
