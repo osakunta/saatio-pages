@@ -4,6 +4,10 @@
   font-family: 'Montserrat', sans-serif !important;
 }
 
+html, body, .navbar {
+  background: #eeeeee;
+}
+
 h1 {
   font-weight: 900 !important;
   font-size: 2.5rem !important;
@@ -13,6 +17,16 @@ p {
   text-align: justify;
   hyphens: manual;
   max-width: 640px;
+}
+
+.navbar {
+  text-transform: uppercase;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.navbar-item:hover {
+  background: none !important;
 }
 
 .footer {
