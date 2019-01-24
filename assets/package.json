@@ -1,0 +1,9 @@
+{
+  "name": "satalinna-foundation-static",
+  "version": "1.0.0",
+  "description": "Asset dependencies for Satalinna Foundation static pages.",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.7.2"
+  }
+}
