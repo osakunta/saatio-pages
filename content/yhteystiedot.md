@@ -2,4 +2,72 @@
 title: Yhteystiedot
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{% columns %}}
+
+{{% column %}}
+
+Toiminnanjohtaja
+----------------
+Kristiina Nieminen\
+toiminnanjohtaja@satakuntatalo.fi\
++358 50 380 7850
+
+<br>
+
+Säätiön hallitus
+----------------
+saationhallitus@satakuntatalo.fi
+
+**Puheenjohtaja**\
+Jari Yli-Kauhaluoma
+
+**Varapuheenjohtaja**\
+Juho Tuomi
+
+**Sihteeri**\
+Tero Alitalo
+
+**Jäsen** Pirkko Harrela\
+**Jäsen** Riku Jaakonsaari\
+**Jäsen** Harri Kainulainen\
+**Jäsen** Mikko Salo\
+**Jäsen** Antti Torkki\
+**Jäsen** Stella Vahteristo
+
+<br>
+
+{{% /column %}}
+
+{{% column %}}
+
+Satakuntatalon huoltomies
+-------------------------
+Jarmo Liiri\
+huoltomies@satakuntatalo.fi\
++358 50 2861 (arkisin klo 07–15)
+
+<br>
+
+Asuntolajohtokunta
+------------------
+ajk@satakuntatalo.fi
+
+**Puheenjohtaja**\
+Jan-Erik Engren
+
+**VPJ & Kalustevastaava**\
+Antti Torkki
+
+**Sihteeri**\
+Johannes Pessi
+
+**Siivousvastaava**\
+Josefina Hietanen
+
+**Peruskorjausvastaava**\
+Stella Vahteristo
+
+<br>
+
+{{% /column %}}
+{{% /columns %}}
