@@ -4,7 +4,7 @@
   font-family: 'Montserrat', sans-serif !important;
 }
 
-html, body, .navbar {
+html, body, .navbar, .footer {
   background: #eeeeee;
 }
 
@@ -31,8 +31,12 @@ p {
 
 .navbar {
   text-transform: uppercase;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+
+  .container {
+    border-bottom: 1px solid #ccc;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
 }
 
 .navbar-item:hover {
@@ -40,8 +44,17 @@ p {
 }
 
 .footer {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0;
+
+  a {
+    color: black;
+  }
+
+  .container {
+    border-top: 1px solid #ccc;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
 }
 
 .restrict-width {
