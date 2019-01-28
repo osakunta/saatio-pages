@@ -8,16 +8,25 @@ html, body, .navbar {
   background: #eeeeee;
 }
 
-h1 {
+h1, h2 {
   font-weight: 900 !important;
+}
+
+h1 {
   font-size: 2.5rem !important;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 2rem !important;
+  margin-bottom: 1rem;
 }
 
 p {
   text-align: justify;
   hyphens: manual;
   max-width: 640px;
-  margin: 1.5rem 0;
+  margin-bottom: 1.5rem;
 }
 
 .navbar {
