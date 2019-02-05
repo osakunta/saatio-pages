@@ -1,11 +1,14 @@
 @import "../node_modules/bulma/bulma";
 
+$color-bg: #eeeeee;
+$color-border: #cccccc;
+
 * {
   font-family: 'Montserrat', sans-serif !important;
 }
 
 html, body, .navbar, .footer {
-  background: #eeeeee;
+  background: $color-bg;
 }
 
 h1, h2 {
@@ -34,7 +37,7 @@ p {
   text-transform: uppercase;
 
   .container {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid $color-border;
     padding-top: 2rem;
     padding-bottom: 2rem;
   }
@@ -55,7 +58,7 @@ p {
   }
 
   .container {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid $color-border;
     padding-top: 7rem;
     padding-bottom: 7rem;
   }
