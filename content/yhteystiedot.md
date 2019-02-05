@@ -9,27 +9,27 @@ title: Yhteystiedot
 Toiminnanjohtaja
 ----------------
 Kristiina Nieminen\
-toiminnanjohtaja@satakuntatalo.fi\
+toiminnanjohtaja@satalinnansaatio.fi\
 +358 50 380 7850
 
 <br>
 
 Säätiön hallitus
 ----------------
-saationhallitus@satakuntatalo.fi
+hallitus@satalinnansaatio.fi
 
 **Puheenjohtaja**\
 Jari Yli-Kauhaluoma
 
 **Varapuheenjohtaja**\
-Juho Tuomi
+Timo Häivälä
 
 **Sihteeri**\
-Tero Alitalo
+Ville Kopio
 
 **Jäsen** Pirkko Harrela\
 **Jäsen** Riku Jaakonsaari\
-**Jäsen** Harri Kainulainen\
+**Jäsen** Juho Tuomi\
 **Jäsen** Mikko Salo\
 **Jäsen** Antti Torkki\
 **Jäsen** Stella Vahteristo
@@ -43,14 +43,14 @@ Tero Alitalo
 Satakuntatalon huoltomies
 -------------------------
 Jarmo Liiri\
-huoltomies@satakuntatalo.fi\
+huoltomies@satalinnansaatio.fi\
 +358 50 2861 (arkisin klo 07–15)
 
 <br>
 
 Asuntolajohtokunta
 ------------------
-ajk@satakuntatalo.fi
+ajk@satalinnansaatio.fi
 
 **Puheenjohtaja**\
 Jan-Erik Engren
