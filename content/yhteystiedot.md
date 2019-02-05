@@ -53,16 +53,16 @@ Asuntolajohtokunta
 ajk@satalinnansaatio.fi
 
 **Puheenjohtaja**\
-Jan-Erik Engren
+Mikael De Meulder
 
 **VPJ & Kalustevastaava**\
 Antti Torkki
 
 **Sihteeri**\
-Johannes Pessi
+Jan-Erik Engren
 
 **Siivousvastaava**\
-Josefina Hietanen
+Lauri Lepistö
 
 **Peruskorjausvastaava**\
 Stella Vahteristo
