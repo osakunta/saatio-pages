@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satalinnan Säätiö</title>
+    <link>https://satalinnansaatio.fi/</link>
+    <description>Recent content on Satalinnan Säätiö</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://satalinnansaatio.fi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lahjoittaminen</title>
+      <link>https://satalinnansaatio.fi/lahjoittaminen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://satalinnansaatio.fi/lahjoittaminen/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Satakuntatalo</title>
+      <link>https://satalinnansaatio.fi/satakuntatalo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://satalinnansaatio.fi/satakuntatalo/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Yhteystiedot</title>
+      <link>https://satalinnansaatio.fi/yhteystiedot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://satalinnansaatio.fi/yhteystiedot/</guid>
+      <description>Toiminnanjohtaja Kristiina Nieminen
+toiminnanjohtaja@satalinnansaatio.fi
++358 50 380 7850
+
+Säätiön hallitus hallitus@satalinnansaatio.fi
+Puheenjohtaja
+Jari Yli-Kauhaluoma
+Varapuheenjohtaja
+Timo Häivälä
+Sihteeri
+Ville Kopio
+Jäsen Pirkko Harrela
+Jäsen Riku Jaakonsaari
+Jäsen Juho Tuomi
+Jäsen Mikko Salo
+Jäsen Antti Torkki
+Jäsen Stella Vahteristo
+
+ Satakuntatalon huoltomies Jarmo Liiri
+huoltomies@satalinnansaatio.fi
++358 50 2861 (arkisin klo 07–15)
+
+Asuntolajohtokunta ajk@satalinnansaatio.fi
+Puheenjohtaja
+Mikael De Meulder
+VPJ &amp;amp; Kalustevastaava
+Antti Torkki
+Sihteeri
+Jan-Erik Engren
+Siivousvastaava
+Lauri Lepistö</description>
+    </item>
+    
+  </channel>
+</rss>
