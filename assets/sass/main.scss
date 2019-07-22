@@ -1,13 +1,12 @@
 @import "../node_modules/bulma/bulma";
 
-$color-bg: #f4f4f4;
-$color-bg2: #eeeeee;
+$color-bg: #fcfcfc;
 
 * {
   font-family: 'Montserrat', sans-serif !important;
 }
 
-html, body, .navbar {
+html, body, .navbar, .footer {
   background: $color-bg;
 }
 
@@ -52,15 +51,14 @@ p {
 }
 
 .footer {
-  background: $color-bg2;
-  
   a {
     color: black;
   }
 
-  .container {
-    border-top: 1px solid $color-bg2;
-    padding-top: 7rem;
-    padding-bottom: 7rem;
+}
+
+.tile.is-child {
+  @media only screen and (min-width: $desktop) {
+    margin: 1rem !important;
   }
 }
