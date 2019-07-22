@@ -2,6 +2,7 @@ baseURL: "https://satalinnansaatio.fi/"
 languageCode: "en-us"
 title: "Satalinnan Säätiö"
 sectionPagesMenu: "main"
+publishdir: ./docs
 
 menu:
   main:
