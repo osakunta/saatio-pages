@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Satalinnan Säätiö</title>
     <link>https://satalinnansaatio.fi/</link>
     <description>Recent content on Satalinnan Säätiö</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fi-fi</language>
     
 	<atom:link href="https://satalinnansaatio.fi/index.xml" rel="self" type="application/rss+xml" />
     
