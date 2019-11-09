@@ -1,27 +1,45 @@
+@charset "utf-8";
+
+// Import a Google Font
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,700&display=swap&subset=latin-ext");
+
+// Set your brand colors
+$blue: #0F578A;
+$light-blue: lighten($blue, 10%);
+$grey: #303030;
+$light-grey: lighten($grey, 20%);
+$white: #FFFFFF;
+
+// Update Bulma's global variables
+$family-sans-serif: "Cormorant Garamond", serif;
+$grey-dark: $grey;
+$grey-light: $light-grey;
+$primary: $blue;
+$link: $light-blue;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+// Update some of Bulma's component variables
+$body-background-color: $white;
+$radius: 0;
+
 @import "../node_modules/bulma/bulma";
 
-$color-bg: #fcfcfc;
-
-* {
-  font-family: 'Montserrat', sans-serif !important;
-}
-
-html, body, .navbar, .footer {
-  background: $color-bg;
+body {
+  font-size: 1.2rem;
 }
 
 h1, h2 {
-  font-weight: 900 !important;
-  text-transform: uppercase;
+  font-weight: bold;
 }
 
 h1 {
-  font-size: 2.5rem !important;
+  font-size: 2.5rem;
   margin-bottom: 1.5rem;
 }
 
 h2 {
-  font-size: 2rem !important;
+  font-size: 2rem;
   margin-bottom: 1rem;
 }
 
@@ -51,10 +69,16 @@ p {
 }
 
 .footer {
+  background-color: $white;
+
   a {
     color: black;
   }
 
+}
+
+.hero {
+  padding: 3rem 0;
 }
 
 .tile.is-child {
