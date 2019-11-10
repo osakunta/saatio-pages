@@ -7,7 +7,7 @@
 $blue: #0F578A;
 $light-blue: lighten($blue, 10%);
 $grey: #303030;
-$light-grey: lighten($grey, 20%);
+$light-grey: lighten($grey, 75%);
 $white: #FFFFFF;
 
 // Update Bulma's global variables
@@ -69,10 +69,11 @@ p {
 }
 
 .footer {
-  background-color: $white;
+  background-color: $grey-light;
+  padding: 5rem 1.5rem;
 
   a {
-    color: black;
+    color: $grey;
   }
 
 }
