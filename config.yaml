@@ -6,15 +6,15 @@ publishdir: ./docs
 
 menu:
   main:
-#    - identifier: satakuntatalo
-#      name: Satakuntatalo
-#      url: /satakuntatalo/
-#      weight: 1
+    - identifier: satakuntatalo
+      name: Satakuntatalo
+      url: /satakuntatalo/
+      weight: 1
 
-#    - identifier: lahjoittaminen
-#      name: Lahjoittaminen
-#      url: /lahjoittaminen/
-#      weight: 2
+    - identifier: lahjoittaminen
+      name: Lahjoittaminen
+      url: /lahjoittaminen/
+      weight: 2
 
     - identifier: yhteystiedot
       name: Yhteystiedot
