@@ -1,0 +1,17 @@
+<div class="media is-flex" style="align-items: center;">
+{{ with .Get "img" }}
+<div class="media-left">
+    <figure class="image">
+        <img class="is-rounded" src="{{.}}" alt="Placeholder image">
+    </figure>
+</div>
+{{ end }}
+<div class="media-content">
+    <p class="title is-4">{{.Get "name" }}</p>
+    {{ with .Get "info" }}
+    <p class="subtitle is-6">
+        {{. | markdownify}}
+    </p>
+    {{ end }}
+</div>
+</div>
