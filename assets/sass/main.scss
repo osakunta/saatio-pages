@@ -43,7 +43,7 @@ h2 {
   margin-bottom: 1rem;
 }
 
-.container > p, .column > p {
+.container > p, .column > p, .hero-body > .container > div > * {
   text-align: justify;
   hyphens: manual;
   max-width: 640px;
