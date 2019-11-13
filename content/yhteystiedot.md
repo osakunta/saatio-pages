@@ -8,12 +8,11 @@ title: Yhteystiedot
 
 Toiminnanjohtaja
 ----------------
-{{% media 
+{{% media
     name="Kristiina Nieminen"
     info="toiminnanjohtaja@satalinnansaatio.fi<br>+358 50 380 7850"
-    img="https://versions.bulma.io/0.7.0/images/placeholders/96x96.png"
+    img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
-
 
 <br>
 
@@ -21,55 +20,55 @@ Hallitus
 --------
 hallitus@satalinnansaatio.fi
 
-{{% media 
+{{% media
     name="Jari Yli-Kauhaluoma"
     info="Puheenjohtaja"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Timo Häivälä"
     info="Varapuheenjohtaja"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Ville Kopio"
     info="Sihteeri"
     img="/img/kopio-64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Pirkko Harrela"
     info="Jäsen"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Heikki Lindfors"
     info="Jäsen"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Juho Tuomi"
     info="Jäsen"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Mikko Salo"
     info="Jäsen"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Antti Torkki"
     info="Jäsen"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Stella Vahteristo"
     info="Jäsen"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
@@ -83,10 +82,20 @@ hallitus@satalinnansaatio.fi
 
 Satakuntatalon huoltomies
 -------------------------
-{{% media 
+{{% media
     name="Jarmo Liiri"
-    img="https://versions.bulma.io/0.7.0/images/placeholders/96x96.png"
     info="huoltomies@satalinnansaatio.fi<br>+358 50 2861 (arkisin klo 07–15)"
+    img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
+%}}
+
+<br>
+
+Tietoverkkovastaava
+-------------------
+{{% media
+    name="Ville Kopio"
+    info="tietoverkkovastaava@satalinnansaatio.fi"
+    img="/img/kopio-64x64.png"
 %}}
 
 <br>
@@ -95,31 +104,31 @@ Asuntolajohtokunta
 ------------------
 ajk@satalinnansaatio.fi
 
-{{% media 
+{{% media
     name="Mikael De Meulder"
     info="Puheenjohtaja"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Antti Torkki"
     info="Varapuheenjohtaja<br>Kalustevastaava"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Jan-Erik Engren"
     info="Sihteeri"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Lauri Lepistö"
     info="Siivousvastaava"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
 %}}
 
-{{% media 
+{{% media
     name="Stella Vahteristo"
     info="Peruskorjausvastaava"
     img="https://versions.bulma.io/0.7.0/images/placeholders/64x64.png"
