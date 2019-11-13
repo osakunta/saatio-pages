@@ -43,7 +43,7 @@ h2 {
   margin-bottom: 1rem;
 }
 
-p {
+.container > p, .column > p {
   text-align: justify;
   hyphens: manual;
   max-width: 640px;
@@ -80,6 +80,11 @@ p {
 
 .hero {
   padding: 3rem 0;
+}
+
+.media + .media {
+  border-top: none;
+  padding-top: 0;
 }
 
 .tile.is-child {
