@@ -103,4 +103,6 @@ Satakuntatalon opiskelija-asuntola toimi alusta vuoteen 2006 asti kesähotellina
 Kevät- ja syysmuuttoina tunnetut päivät edellyttivät huoltomiehiltä kovaa ponnistelua sen yhden vuorokauden aikana, jolloin opiskelijoiden vuokrasopimukset päättyivät, sillä hotellivieraat muuttivat huoneisiin seuraavana aamuna. Hotellikäytön vuoksi jouduttiin  esimerkiksi rakentamaan ja purkamaan väliaikaisia seiniä.
 
 Satakuntatalon juhlatilojen ravintola toimi aluksi opiskelijaruokalana. Juhlasali oli myös osakunnan käytössä. Omasta ravintolasta jouduttiin luopumaan taloudellisista syistä, ja juhlatilat vuokrattiin jo varhain ulkopuoliselle yrittäjälle. Ravintola toimi myös kesähotellin palveluna. Juhlatiloissa järjestetään nykyisin vain merkittävimpiä osakuntajuhlia pari kertaa vuodessa.
+
+<a href="/docs/satakuntatalo_rhs.pdf" class="button is-centered is-outlined is-fullwidth is-medium">Lue lisää Satakuntatalon rakennushistoriaselvityksestä</a>
 {{% /section %}}
