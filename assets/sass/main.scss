@@ -55,6 +55,7 @@ h2 {
 }
 
 .navbar {
+  background: transparent;
   text-transform: uppercase;
 
   .container {
@@ -95,4 +96,18 @@ h2 {
   @media only screen and (min-width: $desktop) {
     margin: 1rem !important;
   }
+}
+
+.button.is-outlined {
+  background: transparent;
+}
+
+.hero-background {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.bg {
+  background-image: url('/img/background/bg1.jpg');
 }

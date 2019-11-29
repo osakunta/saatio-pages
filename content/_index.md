@@ -1,22 +1,21 @@
 ---
 title: Satalinnan Säätiö
+heroBackground: bg
+heroBody: |
+    Satalinnan Säätiön tarkoituksena on hoitaa Satakuntataloa ja säätiön muuta omaisuutta Helsingin yliopistossa opiskelevien satakuntalaisten ylioppilaiden aatteellisen toiminnan tukemiseksi.
+
+    <a href="#säätiöstä" class="button is-centered is-outlined is-fullwidth is-large">Lue lisää</a>
 layout: single
 ---
 
-{{% hero %}}
-**Satalinnan Säätiön** tarkoituksena on hoitaa [Satakuntataloa](/satakuntatalo) ja säätiön muuta omaisuutta Helsingin yliopistossa opiskelevien satakuntalaisten ylioppilaiden aatteellisen toiminnan tukemiseksi.
-
-<a href="#säätiöstä" class="button is-centered is-outlined is-fullwidth is-medium">Lue lisää</a>
-{{% /hero %}}
-
-{{% columns class="has-background-light" %}}
+{{% columns %}}
 
 {{% column %}}
 # Opiskelija-asunnot
 
 Satakuntalaisen Osakunnan jäsenet voivat hakea säätiön asuntoja.
 
-<a href="https://satakuntalainenosakunta.fi/asuntola" class="button has-background-light is-outlined is-fullwidth is-medium">Hae asuntoa</a>
+<a href="https://satakuntalainenosakunta.fi/asuntola" class="button is-outlined is-fullwidth is-medium">Hae asuntoa</a>
 {{% /column %}}
 
 {{% column %}}
@@ -24,7 +23,7 @@ Satakuntalaisen Osakunnan jäsenet voivat hakea säätiön asuntoja.
 
 Säätiö ottaa vastaan testamenttilahjoituksia tarkoituksensa toteuttamiseksi.
 
-<a href="/lahjoittaminen" class="button has-background-light is-outlined is-fullwidth is-medium">Tue säätiötä</a>
+<a href="/lahjoittaminen" class="button is-outlined is-fullwidth is-medium">Tue säätiötä</a>
 {{% /column %}}
 
 {{% /columns %}}

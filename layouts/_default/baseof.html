@@ -3,7 +3,25 @@
 {{- partial "head.html" . -}}
 
 <body>
+<div {{ with .Params.heroBackground }}class="hero-background {{ . }}"{{ end }}>
 {{- partial "header.html" . -}}
+
+{{ if or .Params.heroTitle .Params.heroBody }}
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+        {{ with .Params.heroTitle }}
+        <h1 class="title">{{ . }}</h1>
+        {{ end }}
+
+        {{ with .Params.heroBody }}
+        <div class="is-size-4">{{ . | markdownify }}</div>
+        {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+</div>
 
 {{- block "main" . }}{{- end }}
 
