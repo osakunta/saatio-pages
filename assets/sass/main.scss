@@ -16,7 +16,6 @@ $grey-dark: $grey;
 $grey-light: $light-grey;
 $primary: $blue;
 $link: $light-blue;
-$widescreen-enabled: false;
 $fullhd-enabled: false;
 
 // Update some of Bulma's component variables
@@ -43,7 +42,12 @@ h2 {
   margin-bottom: 1rem;
 }
 
-.container > p, .column > p, .hero-body > .container > div > * {
+.hero .container, section.section .container {
+  max-width: 640px;
+  margin: auto;
+}
+
+.container p {
   text-align: justify;
   hyphens: manual;
   max-width: 640px;

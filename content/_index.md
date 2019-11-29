@@ -14,7 +14,7 @@ layout: single
 {{% column %}}
 # Opiskelija-asunnot
 
-Satakuntalaisen Osakunnan nykyiset ja tulevat jäsenet voivat hakea Satalinnan Säätiön asuntoja.
+Satakuntalaisen Osakunnan jäsenet voivat hakea säätiön asuntoja.
 
 <a href="https://satakuntalainenosakunta.fi/asuntola" class="button has-background-light is-outlined is-fullwidth is-medium">Hae asuntoa</a>
 {{% /column %}}
@@ -32,7 +32,7 @@ Säätiö ottaa vastaan testamenttilahjoituksia tarkoituksensa toteuttamiseksi.
 {{% section %}}
 # Säätiöstä
 
-[Satakuntalaisen Osakunnan](https://satakuntalainenosakunta.fi) taustaorganisaationa toimii Satalinnan Säätiö, joka perustettiin Satakuntatalon rakentamisen alkaessa vuonna 1950. Säätiön säädekirjassa sen tarkoitukseksi määritellään satakuntalaisten ylioppilaiden aatteellisen toiminnan taloudellisen pohjan turvaaminen, sekä ”pian rakennettavan Satakuntatalon hallinnointi ja vakaudesta huolehtiminen”. Keuhkotautisairaalan nimeä kantava säätiö omistaa rakennuksen tontteineen ja hoitaa niiden kunnossapidon, toimii vuokranantajana, sekä tukee opiskelijatoimintaa.
+[Satakuntalaisen Osakunnan](https://satakuntalainenosakunta.fi) taustaorganisaationa toimii Satalinnan Säätiö, joka perustettiin Satakuntatalon rakentamisen alkaessa vuonna 1950. Säätiö omistaa rakennuksen tontteineen ja hoitaa niiden kunnossapidon, toimii vuokranantajana, sekä tukee opiskelijatoimintaa.
 
 Säätiön hallituksessa on puheenjohtaja ja kahdeksan jäsentä. Puheenjohtajana toimii Satakuntalaisen Osakunnan inspehtori, joka on Helsingin yliopiston professori. Varapuheenjohtajana toimii osakunnan kuraattori, joka on yleensä vanhempi opiskelija tai vastavalmistunut. Osakunta asettaa säätiön hallitukseen jäsenistä kuraattorin lisäksi kolme henkilöä. Heidät valitaan kahdeksi vuodeksi kerrallaan ja he tuovat hallituksen pöytään osakuntalaisten ja asukkaiden näkökulmaa. Loput neljä asiantuntijajäsentä hallitus valitsee kymmenen vuoden kausille – myös heillä on yleensä osakuntataustaa.
 
