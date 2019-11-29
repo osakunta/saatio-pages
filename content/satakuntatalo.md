@@ -4,8 +4,6 @@ title: Satakuntatalo
 
 {{% section %}}
 # Satakuntatalo
-
-## Yleistä
 Satakuntatalo sijaitsee Kampissa, Helsingin ydinkeskustassa. Rakennus on Helsingin yliopiston Satakuntalaisen Osakunnan keskuspaikka.
 Satakuntalainen Osakunta on satakuntalaistaustaisten opiskelijoiden Helsingin yliopiston alainen opiskelijajärjestö, joka käyttää Satakuntataloa toimitiloinaan ja opiskelija-asuntolana. Osakunnan taustaorganisaationa toimii Satalinnan Säätiö, joka omistaa rakennuksen tontteineen. Opiskelijatilojen lisäksi talossa on vuokrattavia liiketiloja.
 
